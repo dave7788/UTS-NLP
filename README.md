@@ -16,3 +16,6 @@ Dataset diambil dari Kaggle (Indodax dataset)
 ## Hasil
 - BoW memberikan akurasi lebih tinggi dibandingkan TF-IDF
 - Banyak komentar bersentimen negatif terkait biaya transaksi
+
+##Google Colab
+https://colab.research.google.com/drive/187LBJ4afguBjPKmWbv6qCN9EAA36QjrB#scrollTo=Vqykb4hEzGn2
